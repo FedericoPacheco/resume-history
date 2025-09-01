@@ -1,0 +1,6 @@
+*.exe
+*.msi
+*.pdf
+dist/
+installers/
+old/
