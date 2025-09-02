@@ -8,6 +8,10 @@
 
 ---
 
+### Summary 
+
+Recently graduated Information Systems Engineer recognized for high academic performance with nearly 1 year of experience as a Fullstack Developer on an e-learning platform. Curious and disciplined, continuously studying testing, refactoring, architecture and distributed systems fundamentals. Seeking a second developer role in a team that values code quality and strong engineering culture.
+
 ### Professional Experience
 
 **Junior Fullstack Developer — Serfe SA**  

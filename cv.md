@@ -8,6 +8,10 @@
 
 ---
 
+### Perfil
+
+Ingeniero en Sistemas de Información recientemente graduado reconocido por alto rendimiento académico con casi 1 año de experiencia como Desarrollador Fullstack en una plataforma de e-learning. Curioso y disciplinado, estudiando continuamente fundamentos de testing, refactoring, arquitectura y sistemas distribuidos. En búsqueda de un segundo rol como desarrollador en un equipo que valore la calidad del código y una sólida cultura de ingeniería.
+
 ### Experiencia profesional
 
 **Fullstack Developer Junior – Serfe SA**  
