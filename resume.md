@@ -49,10 +49,10 @@ Topic: Application of machine learning algorithms, employed in the Career's Fina
 
 **Career's Final Project** — Software prototype for feature extraction from agreements using Machine Learning and NLP  
 
- - Automation of document processing for the Department of Extension and Culture at UTN FRSF  
- - NER model development: preprocessing pipeline, dataset creation, training, hyperparameter optimization, cross-validation  
- - Graphical interface integrated with the model  
- - Technologies: Python, SpaCy, Tesseract, OpenCV  
+ - Automated the processing of documents from the Department of Extension and Culture at UTN FRSF, reducing manual work and improving consistency.
+ - Designed and trained a custom Named Entity Recognition (NER) model, including preprocessing, dataset creation, hyperparameter tuning, and cross-validation, achieving accurate extraction of key terms. 
+ - Developed a user-friendly graphical interface integrated with the ML model, enabling non-technical staff to process and analyze documents efficiently. 
+ - Stack: Python, SpaCy, Tesseract, OpenCV.  
 
 ### Other Technical Skills
 
@@ -60,7 +60,7 @@ Topic: Application of machine learning algorithms, employed in the Career's Fina
  - **Frameworks**: Spring
  - **Testing**: Testcontainers, JUnit, Mockito
  - **Machine Learning**: Keras, Scikit-learn, Numpy, Pandas, Matplotlib  
- - **Fundamentals**: Design patterns, Clean code, Architectural styles  
+ - **Fundamentals**: Design patterns, Clean code, Architectural styles
  - **Others**: Graylog, Prometheus, RabbitMQ  
 
 ### Languages

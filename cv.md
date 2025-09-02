@@ -50,10 +50,10 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el Proye
 
 **Proyecto Final de Carrera** – Prototipo de software para extracción de características de convenios con Machine Learning y NLP  
  
- - Automatización del procesamiento de documentos de la Secretaría de Extensión y Cultura de la UTN FRSF  
- - Desarrollo de modelo NER: pipeline de preprocesamiento, dataset, entrenamiento, optimización de hiperparámetros, validación cruzada  
- - Interfaz gráfica integrada con el modelo  
- - Tecnologías: Python, SpaCy, Tesseract, OpenCV  
+ - Automatizé el procesamiento de documentos del Departamento de Extensión y Cultura de la UTN FRSF, reduciendo el trabajo manual y mejorando la consistencia.
+ - Diseñé y entrené un modelo personalizado de Reconocimiento de Entidades Nombradas (NER), incluyendo preprocesamiento, creación de conjuntos de datos, ajuste de hiperparámetros y validación cruzada, logrando una extracción precisa de términos clave.
+ - Desarrollé una interfaz gráfica amigable integrada con el modelo de ML, permitiendo al personal no técnico procesar y analizar documentos de manera eficiente.
+ - Stack: Python, SpaCy, Tesseract, OpenCV.
 
 ### Otras habilidades técnicas
 
@@ -61,7 +61,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el Proye
  - **Frameworks**: Spring
  - **Testing**: Testcontainers, JUnit, Mockito
  - **Machine Learning**: Keras, Scikit-learn, Numpy, Pandas, Matplotlib  
- - **Fundamentales**: Patrones de diseño, Clean Code, Estilos arquitectónicos  
+ - **Fundamentales**: Patrones de diseño, Clean Code, Estilos arquitectónicos
  - **Otros**: Graylog, Prometheus, RabbitMQ 
 
 ### Idiomas
