@@ -2,7 +2,7 @@ pdf-engine: xelatex
 variables:
   geometry: margin=0.25in         
   fontsize: 10pt                  
-  linestretch: 0.5                # spacing between lines
+  linestretch: 0.625                # spacing between lines
   mainfont: "Latin Modern Roman"  # classic LaTeX font
   monofont: "Latin Modern Mono"
   pagestyle: empty                # remove headers/footers
