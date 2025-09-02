@@ -61,8 +61,8 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el Proye
  - **Frameworks**: Spring
  - **Testing**: Testcontainers, JUnit, Mockito
  - **Machine Learning**: Keras, Scikit-learn, Numpy, Pandas, Matplotlib  
- - **Otros**: Graylog, Prometheus 
- - Patrones de diseño, Refactorización, Código limpio, TDD, Estilos arquitectónicos  
+ - **Fundamentales**: Patrones de diseño, Clean Code, Estilos arquitectónicos  
+ - **Otros**: Graylog, Prometheus, RabbitMQ 
 
 ### Idiomas
 

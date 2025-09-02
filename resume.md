@@ -56,12 +56,12 @@ Topic: Application of machine learning algorithms, employed in the Career's Fina
 
 ### Other Technical Skills
 
- - **Programming Languages:** Java, C, C++
- - **Frameworks:** Spring
- - **Testing:** Testcontainers, JUnit, Mockito
- - **Machine Learning:** Keras, Scikit-learn, Numpy, Pandas, Matplotlib  
- - **Others:** Graylog, Prometheus  
- - Design patterns, Refactoring, Clean code, TDD, Architectural styles  
+ - **Programming Languages**: Java, C, C++
+ - **Frameworks**: Spring
+ - **Testing**: Testcontainers, JUnit, Mockito
+ - **Machine Learning**: Keras, Scikit-learn, Numpy, Pandas, Matplotlib  
+ - **Fundamentals**: Design patterns, Clean code, Architectural styles  
+ - **Others**: Graylog, Prometheus, RabbitMQ  
 
 ### Languages
 
