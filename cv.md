@@ -14,14 +14,17 @@ Ingeniero en Sistemas de Información recientemente graduado reconocido por alto
 
 ### Experiencia profesional
 
-**Fullstack Developer Junior – Serfe SA**  
+**Fullstack Developer Junior – [Serfe SA](https://www.serfe.com/es/)**  
 *Octubre 2024 – Julio 2025*
 Proyecto Bluejacketeer, plataforma de estudio tipo flashcards/preguntas y respuestas para militares de la marina de EE.UU.  
 
- - Implementación de funcionalidades en Audio Study: reproductor de playlists, eliminación de audios individuales, guardado de progreso, reportes, configuración de pronunciación personalizada  
- - Definición y defensa de uso de tests unitarios en backend (TDD, prototipo, plan de subproyecto)  
- - Mantenimiento general: prevención de problemas de concurrencia, optimización de endpoints, prompt engineering, mejoras UI, corrección de tests e2e, refactorización, resolución de bugs  
- - Tecnologías: JavaScript, React, Redux, Redux-saga, Node, Mocha, Sinon, Chai, PostgreSQL, Git, Docker  
+ - Implementé funcionalidades clave del subproyecto Audio Study (reproductor de playlists, seguimiento de progreso, reportes, pronunciación personalizada) dando soporte a 20.000 usuarios acjtivos.  
+ - Promoví el unit testing de backend, entregando un prototipo y plan de subproyecto; escribí los primeros 100 unit tests realizando TDD y refactoring para mejorar la calidad del código y reducir errores.
+- Resolví problemas críticos de concurrencia que causaban suscripciones duplicadas, reduciendo
+errores de facturación y tickets de soporte.
+- Optimicé un endpoint usado frecuentemente a través de paralelización y caché, logrando tiempos de respuesta 10x más rápidos según medí en un análisis estadístico posterior.
+- Mejoré la generación automática de material de estudio con LLMs mediante prompt engineering, reduciendo la carga de trabajo de los redactores.
+- Stack: JavaScript, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git. 
 
 **Becario de investigación – UTN FRSF**  
 *Abril 2023 – Diciembre 2023*  

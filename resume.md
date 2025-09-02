@@ -14,14 +14,16 @@ Recently graduated Information Systems Engineer recognized for high academic per
 
 ### Professional Experience
 
-**Junior Fullstack Developer — Serfe SA**  
+**Junior Fullstack Developer — [Serfe SA](https://www.serfe.com/en)**  
 *October 2024 – July 2025*  
 Bluejacketeer project, a study platform based on flashcards/Q&A format designed for U.S. Navy personnel.  
-
- - Implemented key features in Audio Study: playlist player, individual audio deletion, progress saving, reports, custom pronunciation configuration  
- - Definition and advocacy for unit testing adoption in backend (TDD, prototype, subproject plan)  
- - General maintenance: concurrency issue prevention, endpoint optimization, prompt engineering, UI improvements, E2E test fixes, refactoring, bug resolution  
- - Technologies: JavaScript, React, Redux, Redux-saga, Node, Mocha, Sinon, Chai, PostgreSQL, Git, Docker  
+ 
+ - Implemented key Audio Study features (playlist player, progress tracking, reporting, custom pronunciation) supporting 20,000 active users.
+ - Championed backend unit testing, delivering a prototype and subproject plan; wrote first 100 unit tests using TDD and refactoring practices to raise code quality and reduce bugs.
+ - Resolved critical concurrency issues that caused duplicated user subscriptions, reducing billing errors and support tickets.
+ - Optimized frequently used endpoint through parallelization and caching, achieving 10x faster response times as measured by subsequent statistical analysis. 
+ - Enhanced study material automatic generation with LLMs through focused prompt engineering, reducing writers' workload.
+ - Stack: JavaScript, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git.
 
 **Research Scholar — UTN FRSF**  
 *April 2023 – December 2023*  
