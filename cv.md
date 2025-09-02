@@ -8,6 +8,21 @@
 
 ---
 
+### Experiencia profesional
+
+**Fullstack Developer Junior – Serfe SA**  
+*Octubre 2024 – Julio 2025*
+Proyecto Bluejacketeer, plataforma de estudio tipo flashcards/preguntas y respuestas para militares de la marina de EE.UU.  
+
+ - Implementación de funcionalidades en Audio Study: reproductor de playlists, eliminación de audios individuales, guardado de progreso, reportes, configuración de pronunciación personalizada  
+ - Definición y defensa de uso de tests unitarios en backend (TDD, prototipo, plan de subproyecto)  
+ - Mantenimiento general: prevención de problemas de concurrencia, optimización de endpoints, prompt engineering, mejoras UI, corrección de tests e2e, refactorización, resolución de bugs  
+ - Tecnologías: JavaScript, React, Redux, Redux-saga, Node, Mocha, Sinon, Chai, PostgreSQL, Git, Docker  
+
+**Becario de investigación – UTN FRSF**  
+*Abril 2023 – Diciembre 2023*  
+Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el Proyecto Final de Carrera  
+
 ### Formación académica
 
 **Ingeniería en Sistemas de Información** – Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF)  
@@ -23,21 +38,6 @@
  - Promedio general: 8,59/10
  - Segundo promedio en quinto año  
  - Abanderado: 1era escolta provincial  
-
-### Experiencia profesional
-
-**Fullstack Developer Junior – Serfe SA**  
-*Octubre 2024 – Julio 2025*
-Proyecto Bluejacketeer, plataforma de estudio tipo flashcards/preguntas y respuestas para militares de la marina de EE.UU.  
-
- - Implementación de funcionalidades en Audio Study: reproductor de playlists, eliminación de audios individuales, guardado de progreso, reportes, configuración de pronunciación personalizada  
- - Definición y defensa de uso de tests unitarios en backend (TDD, prototipo, plan de subproyecto)  
- - Mantenimiento general: prevención de problemas de concurrencia, optimización de endpoints, prompt engineering, mejoras UI, corrección de tests e2e, refactorización, resolución de bugs  
- - Tecnologías: JavaScript, React, Redux, Redux-saga, Node, Mocha, Sinon, Chai, PostgreSQL, Git, Docker  
-
-**Becario de investigación – UTN FRSF**  
-*Abril 2023 – Diciembre 2023*  
-Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el Proyecto Final de Carrera  
 
 ### Proyectos personales
 

@@ -8,6 +8,21 @@
 
 ---
 
+### Professional Experience
+
+**Junior Fullstack Developer — Serfe SA**  
+*October 2024 – July 2025*  
+Bluejacketeer project, a study platform based on flashcards/Q&A format designed for U.S. Navy personnel.  
+
+ - Implemented key features in Audio Study: playlist player, individual audio deletion, progress saving, reports, custom pronunciation configuration  
+ - Definition and advocacy for unit testing adoption in backend (TDD, prototype, subproject plan)  
+ - General maintenance: concurrency issue prevention, endpoint optimization, prompt engineering, UI improvements, E2E test fixes, refactoring, bug resolution  
+ - Technologies: JavaScript, React, Redux, Redux-saga, Node, Mocha, Sinon, Chai, PostgreSQL, Git, Docker  
+
+**Research Scholar — UTN FRSF**  
+*April 2023 – December 2023*  
+Topic: Application of machine learning algorithms, employed in the Career's Final Project  
+
 ### Academic Background
 
 **Information Systems Engineering** — National Technological University, Santa Fe Regional Faculty (UTN FRSF)  
@@ -23,21 +38,6 @@
  - GPA: 8.59/10  
  - Second highest GPA in the final year  
  - Designated as Flag Escort (1st provincial escort) in recognition of high academic merit  
-
-### Professional Experience
-
-**Junior Fullstack Developer — Serfe SA**  
-*October 2024 – July 2025*  
-Bluejacketeer project, a study platform based on flashcards/Q&A format designed for U.S. Navy personnel.  
-
- - Implemented key features in Audio Study: playlist player, individual audio deletion, progress saving, reports, custom pronunciation configuration  
- - Definition and advocacy for unit testing adoption in backend (TDD, prototype, subproject plan)  
- - General maintenance: concurrency issue prevention, endpoint optimization, prompt engineering, UI improvements, E2E test fixes, refactoring, bug resolution  
- - Technologies: JavaScript, React, Redux, Redux-saga, Node, Mocha, Sinon, Chai, PostgreSQL, Git, Docker  
-
-**Research Scholar — UTN FRSF**  
-*April 2023 – December 2023*  
-Topic: Application of machine learning algorithms, employed in the Career's Final Project  
 
 ### Personal Projects
 
