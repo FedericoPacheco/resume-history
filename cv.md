@@ -1,10 +1,10 @@
 ## Federico Ignacio Pacheco Pilan
 
-**Dirección:** Juan del Campillo 3047, Santa Fe Capital, Santa Fe, Argentina  
-**Teléfono:** +54 9 342 5 286609  
-**Email:** [fedepacheco2112@gmail.com](mailto:fedepacheco2112@gmail.com)  
-**LinkedIn:** [linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15](http://www.linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15/)  
-**GitHub:** [github.com/FedericoPacheco](http://www.github.com/FedericoPacheco)
+**Locación**: Santa Fe Capital, Santa Fe, Argentina  
+**Teléfono**: +54 9 342 5 107625  
+**Email**: [federico.ignacio.pacheco.pilan@gmail.com](mailto:federico.ignacio.pacheco.pilan@gmail.com)  
+**LinkedIn**: [linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15](http://www.linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15/)  
+**GitHub**: [github.com/FedericoPacheco](http://www.github.com/FedericoPacheco)
 
 ---
 
@@ -19,7 +19,7 @@ Ingeniero en Sistemas de Información recientemente graduado reconocido por alto
 Proyecto Bluejacketeer, plataforma de estudio tipo flashcards/preguntas y respuestas para militares de la marina de EE.UU.  
 
  - Implementé funcionalidades clave del subproyecto Audio Study (reproductor de playlists, seguimiento de progreso, reportes, pronunciación personalizada) dando soporte a 20.000 usuarios acjtivos.  
- - Promoví el unit testing de backend, entregando un prototipo y plan de subproyecto; escribí los primeros 100 unit tests realizando test-driven development (TDD) para mejorar la calidad del código y reducir errores.
+ - Promoví el unit testing en el backend, entregando un prototipo y plan de subproyecto; escribí los primeros 100 unit tests realizando test-driven development (TDD) para mejorar la calidad del código y reducir errores.
 - Resolví problemas críticos de concurrencia que causaban suscripciones duplicadas, reduciendo
 errores de facturación y tickets de soporte.
 - Optimicé un endpoint usado frecuentemente a través de paralelización y caché, logrando tiempos de respuesta 10x más rápidos según medí en un análisis estadístico posterior.
