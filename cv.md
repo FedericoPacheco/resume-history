@@ -48,6 +48,8 @@ Tema: Aplicación de algoritmos de aprendizaje automático.
 
 ### Proyectos personales
 
+**Trabajo práctico integrador de la asignatura Desarrollo de aplicaciones en la nube.**
+
 - Diseñé e implementé tres microservicios independientes, cada uno con su propia base de datos (dos relacionales y una NoSQL), permitiendo la gestión escalable de pedidos de productos de construcción para múltiples clientes.
 - Integré APIs REST y mensajería con RabbitMQ para asegurar una comunicación confiable entre los servicios.
 - Desarrollé pruebas unitarias y de integración utilizando Testcontainers, JUnit y Mockito para verificar la lógica de negocio principal.

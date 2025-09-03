@@ -47,7 +47,7 @@ Topic: Application of machine learning algorithms.
 
 ### Personal Projects
 
-**Cloud Applications Development Final Assignment — Microservices Architecture for Construction Product Orders**
+**Final assignment for the Cloud applications development course.**
 
 - Designed and implemented three independent microservices, each with its own database (two relational, one NoSQL), enabling scalable management of product orders for multiple clients.
 - Integrated REST APIs and RabbitMQ messaging to ensure reliable inter-service communication.
