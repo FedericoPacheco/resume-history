@@ -28,7 +28,7 @@ errores de facturación y tickets de soporte.
 
 **Becario de investigación – Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF)**  
 *Abril 2023 – Diciembre 2023*  
-Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el Proyecto Final de Carrera  
+Tema: Aplicación de algoritmos de aprendizaje automático.  
 
 ### Educación
 
@@ -48,20 +48,12 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el Proye
 
 ### Proyectos personales
 
-**Proyecto Final de Carrera – [Prototipo de software para extracción de características de convenios con Machine Learning y NLP](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
- 
- - Automaticé el procesamiento de documentos del Departamento de Extensión y Cultura de la UTN FRSF, reduciendo el trabajo manual y mejorando la consistencia.
- - Diseñé y entrené un modelo personalizado de Reconocimiento de Entidades Nombradas (NER), incluyendo preprocesamiento, creación de conjuntos de datos, ajuste de hiperparámetros y validación cruzada, logrando una extracción precisa de términos clave.
- - Desarrollé una interfaz gráfica amigable integrada con el modelo de ML, permitiendo al personal no técnico procesar y analizar documentos de manera eficiente.
- - Stack: Python, SpaCy, Tesseract, OpenCV.
-
-### Otras habilidades técnicas
-
- - **Lenguajes**: Java, C, C++
- - **Frameworks**: Spring
- - **Testing**: Testcontainers, JUnit, Mockito
- - **Machine Learning**: Keras, Scikit-learn, Numpy, Pandas, Matplotlib
- - **Otros**: Graylog, Prometheus, RabbitMQ 
+- Diseñé e implementé tres microservicios independientes, cada uno con su propia base de datos (dos relacionales y una NoSQL), permitiendo la gestión escalable de pedidos de productos de construcción para múltiples clientes.
+- Integré APIs REST y mensajería con RabbitMQ para asegurar una comunicación confiable entre los servicios.
+- Desarrollé pruebas unitarias y de integración utilizando Testcontainers, JUnit y Mockito para verificar la lógica de negocio principal.
+- Apliqué patrones cloud-native como API Gateway y Service Discovery (Eureka), y configuré herramientas de observabilidad (Graylog, Prometheus, Grafana) para mejorar la monitorización y resolución de problemas.
+- Desplegué toda la arquitectura localmente mediante contenedores.
+- Stack: Java, Spring, Maven, MySQL, PostgreSQL, MongoDB, Docker, Eureka, Graylog, Prometheus, Grafana, RabbitMQ, Testcontainers, JUnit, Mockito.
 
 ### Idiomas
 
