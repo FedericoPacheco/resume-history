@@ -10,7 +10,7 @@
 
 ### Perfil
 
-Ingeniero en Sistemas de Información recientemente graduado reconocido por alto rendimiento académico con casi 1 año de experiencia como Desarrollador Fullstack en una plataforma de e-learning. Curioso y disciplinado, estudiando continuamente fundamentos de testing, refactoring, patrones de diseño, arquitectura de software y sistemas distribuídos. En búsqueda de un segundo rol como desarrollador en un equipo que valore la calidad del código y una sólida cultura de ingeniería.
+Ingeniero en Sistemas de Información recientemente graduado reconocido por alto rendimiento académico con casi 1 año de experiencia como Desarrollador Fullstack en una plataforma de e-learning. Curioso y disciplinado, estudiando continuamente fundamentos de testing, refactoring, patrones de diseño, principios SOLID, arquitectura de software y sistemas distribuídos. En búsqueda de un segundo rol como desarrollador en un equipo que valore la calidad del código y una sólida cultura de ingeniería.
 
 ### Experiencia laboral
 
@@ -24,7 +24,7 @@ Proyecto Bluejacketeer, plataforma de estudio tipo flashcards/preguntas y respue
 errores de facturación y tickets de soporte.
 - Optimicé un endpoint usado frecuentemente a través de paralelización y caché, logrando tiempos de respuesta 10x más rápidos según medí en un análisis estadístico posterior.
 - Mejoré la generación automática de material de estudio con LLMs mediante prompt engineering, reduciendo la carga de trabajo de los redactores.
-- Stack: JavaScript, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git. 
+- Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git. 
 
 **Becario de investigación – Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF)**  
 *Abril 2023 – Diciembre 2023*  
