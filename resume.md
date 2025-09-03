@@ -10,7 +10,7 @@
 
 ### Summary 
 
-Recently graduated Information Systems Engineer recognized for high academic performance with nearly 1 year of experience as a Fullstack Developer on an e-learning platform. Curious and disciplined, continuously studying testing, refactoring, design patterns, software architecture and distributed systems fundamentals. Seeking a second developer role in a team that values code quality and strong engineering culture.
+Recently graduated Information Systems Engineer recognized for high academic performance with nearly 1 year of experience as a Fullstack Developer on an e-learning platform. Curious and disciplined, continuously studying testing, refactoring, design patterns, SOLID principles, software architecture and distributed systems fundamentals. Seeking a second developer role in a team that values code quality and strong engineering culture.
 
 ### Work Experience
 
@@ -23,7 +23,7 @@ Bluejacketeer project, a study platform based on flashcards/Q&A format designed 
  - Resolved critical concurrency issues that caused duplicated user subscriptions, reducing billing errors and support tickets.
  - Optimized frequently used endpoint through parallelization and caching, achieving 10x faster response times as measured by subsequent statistical analysis. 
  - Enhanced study material automatic generation with LLMs through focused prompt engineering, reducing writers' workload.
- - Stack: JavaScript, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git.
+ - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git.
 
 **Research Scholar — National Technological University, Santa Fe Regional Faculty (UTN FRSF)**  
 *April 2023 – December 2023*  
