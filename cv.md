@@ -10,7 +10,7 @@
 
 ### Perfil
 
-Ingeniero en Sistemas de Información recientemente graduado reconocido por alto rendimiento académico con casi 1 año de experiencia como Desarrollador Fullstack en una plataforma de e-learning. Curioso y disciplinado, estudiando continuamente fundamentos de testing, refactoring, patrones de diseño, arquitectura de software y sistemas distribuídos. En búsqueda de un segundo rol como desarrollador en un equipo que valore la calidad del código y una sólida cultura de ingeniería.
+Ingeniero en Sistemas de Información con experiencia como Desarrollador Fullstack y un historial de autonomía y responsabilidad, impulsado por la excelencia técnica y dispuesto a enfrentar desafíos complejos y requerimientos ambiguos. En búsqueda de un rol que me permita crecer profesionalmente en un ambiente de ingeniería colaborativo.
 
 ### Experiencia laboral
 
