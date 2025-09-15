@@ -10,7 +10,7 @@
 
 ### Perfil
 
-Ingeniero en Sistemas de Información recientemente graduado reconocido por alto rendimiento académico con casi 1 año de experiencia como Desarrollador Fullstack en una plataforma de e-learning. Curioso y disciplinado, estudiando continuamente fundamentos de testing, refactoring, patrones de diseño, principios SOLID, arquitectura de software y sistemas distribuídos. En búsqueda de un segundo rol como desarrollador en un equipo que valore la calidad del código y una sólida cultura de ingeniería.
+Ingeniero en Sistemas de Información recientemente graduado reconocido por alto rendimiento académico con casi 1 año de experiencia como Desarrollador Fullstack en una plataforma de e-learning. Disciplinado, orientado al detalle y analítico, con interés en Quality Assurance y Test Automation. Lector regular de literatura sobre testing (*The art of software testing*, *Lessons Learned in Software Testing*, *Growing object-oriented software, guided by tests*), entre otros temas. Busco un segundo rol en un equipo que valore la calidad del código y una sólida cultura de ingeniería.
 
 ### Experiencia laboral
 
