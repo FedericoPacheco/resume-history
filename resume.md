@@ -19,15 +19,15 @@ Recently graduated Information Systems Engineer recognized for high academic per
 Bluejacketeer project, a study platform based on flashcards/Q&A format designed for U.S. Navy personnel.  
  
  - Implemented key Audio Study features (playlist player, progress tracking, reporting, custom pronunciation) supporting 20,000 active users.
- - Championed backend unit testing, delivering a prototype and subproject plan; wrote first 100 unit tests doing test-driven development (TDD) to raise code quality and reduce bugs.
+ - Championed backend testing, delivering a prototype (unit and integration tests + coverage reports + mutation testing) and subproject plan; wrote first 100 unit tests doing classic test-driven development (TDD) to raise code quality and reduce bugs.
  - Resolved critical concurrency issues that caused duplicated user subscriptions, reducing billing errors and support tickets.
  - Optimized frequently used endpoint through parallelization and caching, achieving 10x faster response times as measured by subsequent statistical analysis. 
  - Enhanced study material automatic generation with LLMs through focused prompt engineering, reducing writers' workload.
- - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git.
+ - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, Istanbul, Stryker, PostgreSQL, Redis, Docker, Git.
 
 **Research Scholar — National Technological University, Santa Fe Regional Faculty (UTN FRSF)**  
 *April 2023 – December 2023*  
-Topic: Application of machine learning algorithms, employed in the Career's Final Project  
+Topic: Application of machine learning algorithms, employed in the *Career's Final Project*.  
 
 ### Education
 
@@ -60,7 +60,7 @@ Topic: Application of machine learning algorithms, employed in the Career's Fina
  - **Frameworks**: Spring
  - **Testing**: Testcontainers, JUnit, Mockito
  - **Machine Learning**: Keras, Scikit-learn, Numpy, Pandas, Matplotlib  
- - **Others**: Graylog, Prometheus, RabbitMQ  
+ - **Others**: Graylog, Prometheus, RabbitMQ 
 
 ### Languages
 
