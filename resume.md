@@ -19,11 +19,11 @@ Recently graduated Information Systems Engineer recognized for high academic per
 Bluejacketeer project, a study platform based on flashcards/Q&A format designed for U.S. Navy personnel.  
  
  - Implemented key Audio Study features (playlist player, progress tracking, reporting, custom pronunciation) supporting 20,000 active users.
- - Championed backend unit testing, delivering a prototype and subproject plan; wrote first 100 unit tests doing test-driven development (TDD) to raise code quality and reduce bugs.
- - Resolved critical concurrency issues that caused duplicated user subscriptions, reducing billing errors and support tickets.
- - Optimized frequently used endpoint through parallelization and caching, achieving 10x faster response times as measured by subsequent statistical analysis. 
- - Enhanced study material automatic generation with LLMs through focused prompt engineering, reducing writers' workload.
- - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git.
+ - Championed backend testing, delivering a prototype (unit and integration tests + coverage reports + mutation testing) and subproject plan; wrote first 100 unit tests doing classic test-driven development (TDD) to raise code quality and reduce bugs.
+ - Investigated and resolved user-reported issues from Intercom tickets through inductive debugging and specific tooling: Postman, Chrome DevTools, Redux DevTools, VSCode debugger, logs, Stripe CLI.
+ - Troubleshot and fixed CodeceptJS end-to-end test issues in existing pipeline; currently expanding E2E testing knowledge through experimentation with Playwright.
+ - Documented business logic and tooling usage to facilitate knowledge transfer.
+ - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, Istanbul, Stryker, PostgreSQL, Redis, Docker, Git.
 
 **Research Scholar — National Technological University, Santa Fe Regional Faculty (UTN FRSF)**  
 *April 2023 – December 2023*  
