@@ -19,12 +19,12 @@ Ingeniero en Sistemas de Información recientemente graduado reconocido por alto
 Proyecto Bluejacketeer, plataforma de estudio tipo flashcards/preguntas y respuestas para militares de la marina de EE.UU.  
 
  - Implementé funcionalidades clave del subproyecto Audio Study (reproductor de playlists, seguimiento de progreso, reportes, pronunciación personalizada) dando soporte a 20.000 usuarios acjtivos.  
- - Promoví el unit testing en el backend, entregando un prototipo y plan de subproyecto; escribí los primeros 100 unit tests realizando test-driven development (TDD) para mejorar la calidad del código y reducir errores.
+ - Promoví el unit testing en el backend, entregando un prototipo (test unitarios y de integración + reportes de cobertura + mutation testing) y plan de subproyecto; escribí los primeros 100 unit tests realizando test-driven development (TDD) para mejorar la calidad del código y reducir errores.
 - Resolví problemas críticos de concurrencia que causaban suscripciones duplicadas, reduciendo
 errores de facturación y tickets de soporte.
 - Optimicé un endpoint usado frecuentemente a través de paralelización y caché, logrando tiempos de respuesta 10x más rápidos según medí en un análisis estadístico posterior.
 - Mejoré la generación automática de material de estudio con LLMs mediante prompt engineering, reduciendo la carga de trabajo de los redactores.
-- Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, PostgreSQL, Redis, Docker, Git. 
+- Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, Istanbul, Stryker, PostgreSQL, Redis, Docker, Git.
 
 **Becario de investigación – Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF)**  
 *Abril 2023 – Diciembre 2023*  
