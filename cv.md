@@ -18,8 +18,8 @@ Ingeniero en Sistemas de Información recientemente graduado reconocido por alto
 *Octubre 2024 – Julio 2025*
 Proyecto Bluejacketeer, plataforma de estudio tipo flashcards/preguntas y respuestas para militares de la marina de EE.UU.  
 
- - Implementé funcionalidades clave del subproyecto Audio Study (reproductor de playlists, seguimiento de progreso, reportes, pronunciación personalizada) dando soporte a 20.000 usuarios acjtivos.  
- - Promoví el unit testing en el backend, entregando un prototipo (test unitarios y de integración + reportes de cobertura + mutation testing) y plan de subproyecto; escribí los primeros 100 unit tests realizando test-driven development (TDD) para mejorar la calidad del código y reducir errores.
+- Implementé funcionalidades clave del subproyecto Audio Study (reproductor de playlists, seguimiento de progreso, reportes, pronunciación personalizada) dando soporte a 20.000 usuarios acjtivos.  
+- Promoví el unit testing en el backend, entregando un prototipo (test unitarios y de integración + reportes de cobertura + mutation testing) y plan de subproyecto; escribí los primeros 100 unit tests realizando test-driven development (TDD) para mejorar la calidad del código y reducir errores.
 - Investigué y resolví incidencias reportadas por usuarios desde Intercom mediante debugging inductivo y herramientas específicas: Postman, Chrome DevTools, Redux DevTools, debugger de VSCode, logs, Stripe CLI.
 - Diagnostiqué y solucioné problemas de pruebas end-to-end con CodeceptJS en la pipeline existente; actualmente ampliando conocimientos de E2E experimentando con Playwright.
 - Documenté lógica de negocio y el uso de herramientas para facilitar la transferencia de conocimiento.
@@ -31,19 +31,19 @@ Tema: Aplicación de algoritmos de aprendizaje automático.
 
 ### Educación
 
-**Ingeniería en Sistemas de Información – UTN FRSF** 
+**Ingeniería en Sistemas de Información – UTN FRSF**
 *Marzo 2019 – Febrero 2025*  
 
- - Promedio general: 8,77/10  
- - Estudios completos (título en trámite)  
- - Abanderado: 2da escolta provincial  
+- Promedio general: 8,77/10  
+- Estudios completos (título en trámite)  
+- Abanderado: 2da escolta provincial  
 
 **Bachiller en Ciencias Naturales – E.E.S.O.P.I. N° 3137 San Ezequiel Moreno Agustinos Recoletos**
 *2014 – 2018*  
 
- - Promedio general: 8,59/10
- - Segundo promedio en quinto año  
- - Abanderado: 1era escolta provincial  
+- Promedio general: 8,59/10
+- Segundo promedio en quinto año  
+- Abanderado: 1era escolta provincial  
 
 ### Proyectos personales
 
@@ -60,7 +60,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático.
 
 **Inglés – Competencia profesional completa**  
 
- - Instituto Superior del Profesorado N°8 Almirante Guillermo Brown (Promedio: 8,86/10)  
- - EF SET: 79/100 (C2) – 7/10/2023  
+- Instituto Superior del Profesorado N°8 Almirante Guillermo Brown (Promedio: 8,86/10)  
+- EF SET: 79/100 (C2) – 7/10/2023  
 
 **Español – Competencia nativa/bilingüe**  
