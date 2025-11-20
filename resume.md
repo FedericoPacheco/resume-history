@@ -52,7 +52,15 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Automated the processing of documents from the Department of Extension and Culture at UTN FRSF, reducing manual work and improving consistency.
 - Designed and trained a custom Named Entity Recognition (NER) model, including preprocessing, dataset creation, hyperparameter tuning, and cross-validation, achieving accurate extraction of key terms.
 - Developed a user-friendly graphical interface integrated with the ML model, enabling non-technical staff to process and analyze documents efficiently.
-- Stack: Python, SpaCy, Tesseract, OpenCV.  
+- Stack: Python, SpaCy, Tesseract, OpenCV.
+
+**ToDo App — [todo.federicopacheco.dev](https://todo.federicopacheco.dev)**
+
+- Implemented a comprehensive testing strategy (53 unit, 14 integration, 5 e2e tests + mutation testing) achieving >90% coverage, reducing defects on production.
+- Built a complete CI/CD pipeline with GitHub Actions, automating linting, testing, builds, database backups, deployments to AWS Lightsail with Nginx reverse proxy, and rollbacks on health check failures, eliminating manual errors and reducing downtime to 1-2min per release.
+- Secured the system with session-based authentication, password hashing, CSRF tokens, and HTTPS to protect against common OWASP web vulnerabilities.
+- Documented key architecture decisions (ADRs + C4 diagrams) to enhance technical clarity and facilitate future maintenance.
+- Stack: Bluejacketeer's stack, plus Husky and Playwright.
 
 ### Other Technical Skills
 
