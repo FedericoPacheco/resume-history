@@ -21,7 +21,7 @@ Bluejacketeer project, a study platform based on flashcards/Q&A format designed 
 - Implemented key Audio Study features (playlist player, progress tracking, reporting, custom pronunciation) supporting 20,000 active users.
 - Championed backend testing, delivering a prototype (unit and integration tests + coverage reports + mutation testing) and subproject plan; wrote first 100 unit tests doing classic test-driven development (TDD) to raise code quality and reduce bugs.
 - Investigated and resolved user-reported issues from Intercom tickets through inductive debugging and specific tooling: Postman, Chrome DevTools, Redux DevTools, VSCode debugger, logs, Stripe CLI.
-- Troubleshot and fixed CodeceptJS end-to-end test issues in existing pipeline; currently expanding E2E testing knowledge through experimentation with Playwright.
+- Troubleshot and fixed CodeceptJS end-to-end test issues in existing pipeline.
 - Documented business logic and tooling usage to facilitate knowledge transfer.
 - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, Istanbul, Stryker, PostgreSQL, Redis, Docker, Git.
 
