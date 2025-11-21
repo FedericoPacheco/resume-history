@@ -47,6 +47,14 @@ Tema: Aplicación de algoritmos de aprendizaje automático.
 
 ### Proyectos personales
 
+**ToDo App — [todo.federicopacheco.dev](https://todo.federicopacheco.dev)**
+
+- Implementé una estrategia de testing integral (53 unit tests, 14 de integración, 5 e2e + mutation testing) logrando >90% de cobertura, reduciendo defectos en producción.
+- Construí un pipeline de CI/CD completo con GitHub Actions, automatizando linting, testing, builds, backups de base de datos, deployments a AWS con Nginx como reverse proxy y rollbacks ante fallos de health checks, eliminando errores manuales y reduciendo el downtime a 1-2min por release.
+- Aseguré el sistema con autenticación basada en sesiones, hash de contraseñas, tokens CSRF y HTTPS para proteger contra vulnerabilidades web comunes de OWASP.
+- Documenté decisiones clave de arquitectura (ADRs + diagramas C4) para mejorar la claridad técnica y facilitar el mantenimiento futuro.
+- Stack: stack de Bluejacketeer, añadiendo Husky y Playwright.
+
 **Trabajo práctico integrador de la asignatura Desarrollo de aplicaciones en la nube.**
 
 - Diseñé e implementé tres microservicios independientes, cada uno con su propia base de datos (dos relacionales y una NoSQL), permitiendo la gestión escalable de pedidos de productos de construcción para múltiples clientes.

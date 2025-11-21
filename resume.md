@@ -47,6 +47,14 @@ Topic: Application of machine learning algorithms.
 
 ### Personal Projects
 
+**ToDo App — [todo.federicopacheco.dev](https://todo.federicopacheco.dev)**
+
+- Implemented a comprehensive testing strategy (53 unit, 14 integration, 5 e2e tests + mutation testing) achieving >90% coverage, reducing defects on production.
+- Built a complete CI/CD pipeline with GitHub Actions, automating linting, testing, builds, database backups, deployments to AWS Lightsail with Nginx reverse proxy, and rollbacks on health check failures, eliminating manual errors and reducing downtime to 1-2min per release.
+- Secured the system with session-based authentication, password hashing, CSRF tokens, and HTTPS to protect against common OWASP web vulnerabilities.
+- Documented key architecture decisions (ADRs + C4 diagrams) to enhance technical clarity and facilitate future maintenance.
+- Stack: Bluejacketeer's stack, plus Husky and Playwright.
+
 **Final assignment for the Cloud applications development course.**
 
 - Designed and implemented three independent microservices, each with its own database (two relational, one NoSQL), enabling scalable management of product orders for multiple clients.
