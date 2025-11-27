@@ -36,7 +36,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 *Marzo 2019 – Febrero 2025*  
 
 - Promedio general: 8,77/10  
-- Estudios completos (título en trámite)  
+- Estudios completos
 - Abanderado: 2da escolta provincial  
 
 **Bachiller en Ciencias Naturales – E.E.S.O.P.I. N° 3137 San Ezequiel Moreno Agustinos Recoletos**
