@@ -48,13 +48,6 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 
 ### Proyectos personales
 
-**Proyecto Final de Carrera – [Prototipo de software para extracción de características de convenios con Machine Learning y NLP](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
-
-- Automaticé el procesamiento de documentos del Departamento de Extensión y Cultura de la UTN FRSF, reduciendo el trabajo manual y mejorando la consistencia.
-- Diseñé y entrené un modelo personalizado de Reconocimiento de Entidades Nombradas (NER), incluyendo preprocesamiento, creación de conjuntos de datos, ajuste de hiperparámetros y validación cruzada, logrando una extracción precisa de términos clave.
-- Desarrollé una interfaz gráfica amigable integrada con el modelo de ML, permitiendo al personal no técnico procesar y analizar documentos de manera eficiente.
-- Stack: Python, SpaCy, Tesseract, OpenCV.
-
 **ToDo App — [todo.federicopacheco.dev](https://todo.federicopacheco.dev)**
 
 - Implementé una estrategia de testing integral (53 unit tests, 14 de integración, 5 e2e + mutation testing) logrando >90% de cobertura, reduciendo defectos en producción.
@@ -63,13 +56,21 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 - Documenté decisiones clave de arquitectura (ADRs + diagramas C4) para mejorar la claridad técnica y facilitar el mantenimiento futuro.
 - Stack: stack de Bluejacketeer, añadiendo Husky y Playwright.
 
-### Otras habilidades técnicas
+**Proyecto Final de Carrera – [Prototipo de software para extracción de características de convenios con Machine Learning y NLP](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
 
-- **Lenguajes**: Java, C, C++
-- **Frameworks**: Spring
-- **Testing**: Testcontainers, JUnit, Mockito
-- **Machine Learning**: Keras, Scikit-learn, Numpy, Pandas, Matplotlib
-- **Otros**: Graylog, Prometheus, RabbitMQ
+- Automaticé el procesamiento de documentos del Departamento de Extensión y Cultura de la UTN FRSF, reduciendo el trabajo manual y mejorando la consistencia.
+- Diseñé y entrené un modelo personalizado de Reconocimiento de Entidades Nombradas (NER), incluyendo preprocesamiento, creación de conjuntos de datos, ajuste de hiperparámetros y validación cruzada, logrando una extracción precisa de términos clave.
+- Desarrollé una interfaz gráfica amigable integrada con el modelo de ML, permitiendo al personal no técnico procesar y analizar documentos de manera eficiente.
+- Stack: Python, SpaCy, Tesseract, OpenCV.
+
+**Trabajo práctico integrador de la asignatura Desarrollo de aplicaciones en la nube.**
+
+- Diseñé e implementé tres microservicios independientes, cada uno con su propia base de datos (dos relacionales y una NoSQL), permitiendo la gestión escalable de pedidos de productos de construcción para múltiples clientes.
+- Integré APIs REST y mensajería con RabbitMQ para asegurar una comunicación confiable entre los servicios.
+- Desarrollé pruebas unitarias y de integración utilizando Testcontainers, JUnit y Mockito para verificar la lógica de negocio principal.
+- Apliqué patrones cloud-native como API Gateway y Service Discovery (Eureka), y configuré herramientas de observabilidad (Graylog, Prometheus, Grafana) para mejorar la monitorización y resolución de problemas.
+- Desplegué toda la arquitectura localmente mediante contenedores.
+- Stack: Java, Spring, Maven, MySQL, PostgreSQL, MongoDB, Docker, Eureka, Graylog, Prometheus, Grafana, RabbitMQ, Testcontainers, JUnit, Mockito.
 
 ### Idiomas
 

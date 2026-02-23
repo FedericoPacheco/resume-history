@@ -47,13 +47,6 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 
 ### Personal Projects
 
-**Career's Final Project — [Software prototype for feature extraction from agreements using Machine Learning and NLP](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
-
-- Automated the processing of documents from the Department of Extension and Culture at UTN FRSF, reducing manual work and improving consistency.
-- Designed and trained a custom Named Entity Recognition (NER) model, including preprocessing, dataset creation, hyperparameter tuning, and cross-validation, achieving accurate extraction of key terms.
-- Developed a user-friendly graphical interface integrated with the ML model, enabling non-technical staff to process and analyze documents efficiently.
-- Stack: Python, SpaCy, Tesseract, OpenCV.
-
 **ToDo App — [todo.federicopacheco.dev](https://todo.federicopacheco.dev)**
 
 - Implemented a comprehensive testing strategy (53 unit, 14 integration, 5 e2e tests + mutation testing) achieving >90% coverage, reducing defects on production.
@@ -62,13 +55,21 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Documented key architecture decisions (ADRs + C4 diagrams) to enhance technical clarity and facilitate future maintenance.
 - Stack: Bluejacketeer's stack, plus Husky and Playwright.
 
-### Other Technical Skills
+**Career's Final Project — [Software prototype for feature extraction from agreements using Machine Learning and NLP](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
 
-- **Programming Languages**: Java, C, C++
-- **Frameworks**: Spring
-- **Testing**: Testcontainers, JUnit, Mockito
-- **Machine Learning**: Keras, Scikit-learn, Numpy, Pandas, Matplotlib  
-- **Others**: Graylog, Prometheus, RabbitMQ
+- Automated the processing of documents from the Department of Extension and Culture at UTN FRSF, reducing manual work and improving consistency.
+- Designed and trained a custom Named Entity Recognition (NER) model, including preprocessing, dataset creation, hyperparameter tuning, and cross-validation, achieving accurate extraction of key terms.
+- Developed a user-friendly graphical interface integrated with the ML model, enabling non-technical staff to process and analyze documents efficiently.
+- Stack: Python, SpaCy, Tesseract, OpenCV.
+
+**Final assignment for the Cloud applications development course.**
+
+- Designed and implemented three independent microservices, each with its own database (two relational, one NoSQL), enabling scalable management of product orders for multiple clients.
+- Integrated REST APIs and RabbitMQ messaging to ensure reliable inter-service communication.
+- Developed unit and integration tests using Testcontainers, JUnit, and Mockito to verify core business logic.
+- Applied cloud-native patterns such as API Gateway and Service Discovery (Eureka), and configured observability tools (Graylog, Prometheus, Grafana) to enhance monitoring and troubleshooting capabilities.
+- Deployed the entire architecture locally using containers.
+- Stack: Java, Spring, Maven, MySQL, PostgreSQL, MongoDB, Docker, Eureka, Graylog, Prometheus, Grafana, RabbitMQ, Testcontainers, JUnit, Mockito.
 
 ### Languages
 
