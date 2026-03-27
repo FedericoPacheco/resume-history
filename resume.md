@@ -47,7 +47,15 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 
 ### Personal Projects
 
-**ToDo App — [todo.federicopacheco.dev](https://todo.federicopacheco.dev)**
+**Calisthenics Strength & Skill Acquisition Tracker (ongoing) — [Repository](https://github.com/FedericoPacheco/calisthenics-2025)**
+
+- Migrated Excel spreadsheet with unmaintainable VBA scripts to a clean Google Sheets + App Script codebase, introducing modern tooling and 70+ unit tests across 10+ test files to support ongoing development.
+- Designed the system using hexagonal architecture (3 port/adapter pairs), enabling a fully testable domain layer with zero live-spreadsheet dependencies and a test-driven development (TDD) workflow.
+- Built analytics dashboards for weighted strength work and one-arm handstand practice that convert raw workout logs into time series, histograms, and progression metrics, giving clear visibility into training quality and long-term trends.
+- Developed a strength estimation and training-load recommendation tool using submaximal test data and regression-based analysis, enabling progress evaluation and load selection without frequent maximal-effort attempts.
+- Stack: TypeScript, Google Sheets, Google App Script, Mocha, Chai, Sinon, ESLint, Prettier, Git, Webpack.
+
+**ToDo App — [Website](https://todo.federicopacheco.dev) — [Repository](https://github.com/FedericoPacheco/todo-app)**
 
 - Implemented a comprehensive testing strategy (53 unit, 14 integration, 5 e2e tests + mutation testing) achieving >90% coverage, reducing defects on production.
 - Built a complete CI/CD pipeline with GitHub Actions, automating linting, testing, builds, database backups, deployments to AWS Lightsail with Nginx reverse proxy, and rollbacks on health check failures, eliminating manual errors and reducing downtime to 1-2min per release.
@@ -55,14 +63,14 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Documented key architecture decisions (ADRs + C4 diagrams) to enhance technical clarity and facilitate future maintenance.
 - Stack: Bluejacketeer's stack, plus Husky and Playwright.
 
-**Career's Final Project — [Software prototype for feature extraction from agreements using Machine Learning and NLP](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
+**Career's Final Project: Software prototype for feature extraction from agreements using Machine Learning and NLP — [Document](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
 
 - Automated the processing of documents from the Department of Extension and Culture at UTN FRSF, reducing manual work and improving consistency.
 - Designed and trained a custom Named Entity Recognition (NER) model, including preprocessing, dataset creation, hyperparameter tuning, and cross-validation, achieving accurate extraction of key terms.
 - Developed a user-friendly graphical interface integrated with the ML model, enabling non-technical staff to process and analyze documents efficiently.
 - Stack: Python, SpaCy, Tesseract, OpenCV.
 
-**Final assignment for the Cloud applications development course.**
+**Final assignment for the Cloud applications development course — [Repository](https://github.com/FedericoPacheco/tp-dan-2024)**
 
 - Designed and implemented three independent microservices, each with its own database (two relational, one NoSQL), enabling scalable management of product orders for multiple clients.
 - Integrated REST APIs and RabbitMQ messaging to ensure reliable inter-service communication.

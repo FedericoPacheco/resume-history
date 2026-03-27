@@ -48,7 +48,15 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 
 ### Proyectos personales
 
-**ToDo App — [todo.federicopacheco.dev](https://todo.federicopacheco.dev)**
+**Tracker de fuerza y adquisición de habilidades de calistenia (en curso) — [Repositorio](https://github.com/FedericoPacheco/calisthenics-2025)**
+
+- Migré una planilla de Excel con scripts VBA difíciles de mantener a una base de código limpia en Google Sheets y Apps Script, incorporando tooling moderno y más de 70 unit tests distribuidos en más de 10 archivos de prueba para sostener el desarrollo futuro.
+- Diseñé el sistema usando arquitectura hexagonal (3 pares puerto/adaptador), habilitando una capa de dominio completamente testeable sin dependencias externas y un flujo de trabajo empleando test-driven development (TDD).
+- Construí dashboards para analizar mi entrenamiento de fuerza lastrado y práctica de vertical a un brazo, convirtiendo registros crudos de entrenamiento en series temporales, histogramas y métricas de progresión para visualizar claramente la calidad del entrenamiento y las tendencias a largo plazo.
+- Desarrollé una herramienta de estimación de fuerza y recomendación de cargas de entrenamiento a partir de datos de tests submáximos y análisis basados en regresión, permitiendo evaluar progreso y seleccionar cargas sin recurrir frecuentemente a intentos máximos.
+- Stack: TypeScript, Google Sheets, Google Apps Script, Mocha, Chai, Sinon, ESLint, Prettier, Git, Webpack.
+
+**ToDo App — [Sitio web](https://todo.federicopacheco.dev) — [Repositorio](https://github.com/FedericoPacheco/todo-app)**
 
 - Implementé una estrategia de testing integral (53 unit tests, 14 de integración, 5 e2e + mutation testing) logrando >90% de cobertura, reduciendo defectos en producción.
 - Construí un pipeline de CI/CD completo con GitHub Actions, automatizando linting, testing, builds, backups de base de datos, deployments a AWS con Nginx como reverse proxy y rollbacks ante fallos de health checks, eliminando errores manuales y reduciendo el downtime a 1-2min por release.
@@ -56,14 +64,14 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 - Documenté decisiones clave de arquitectura (ADRs + diagramas C4) para mejorar la claridad técnica y facilitar el mantenimiento futuro.
 - Stack: stack de Bluejacketeer, añadiendo Husky y Playwright.
 
-**Proyecto Final de Carrera – [Prototipo de software para extracción de características de convenios con Machine Learning y NLP](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
+**Proyecto Final de Carrera: Prototipo de software para extracción de características de convenios con Machine Learning y NLP — [Documento](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
 
 - Automaticé el procesamiento de documentos del Departamento de Extensión y Cultura de la UTN FRSF, reduciendo el trabajo manual y mejorando la consistencia.
 - Diseñé y entrené un modelo personalizado de Reconocimiento de Entidades Nombradas (NER), incluyendo preprocesamiento, creación de conjuntos de datos, ajuste de hiperparámetros y validación cruzada, logrando una extracción precisa de términos clave.
 - Desarrollé una interfaz gráfica amigable integrada con el modelo de ML, permitiendo al personal no técnico procesar y analizar documentos de manera eficiente.
 - Stack: Python, SpaCy, Tesseract, OpenCV.
 
-**Trabajo práctico integrador de la asignatura Desarrollo de aplicaciones en la nube.**
+**Trabajo práctico integrador de la asignatura Desarrollo de aplicaciones en la nube — [Repositorio](https://github.com/FedericoPacheco/tp-dan-2024)**
 
 - Diseñé e implementé tres microservicios independientes, cada uno con su propia base de datos (dos relacionales y una NoSQL), permitiendo la gestión escalable de pedidos de productos de construcción para múltiples clientes.
 - Integré APIs REST y mensajería con RabbitMQ para asegurar una comunicación confiable entre los servicios.
