@@ -48,6 +48,14 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 
 ### Proyectos personales
 
+**Sistema para Entrenamiento basado en velocidad (Velocity-Based Training o VBT, por sus siglas en inglés) (en curso) — [Repositorio](https://github.com/FedericoPacheco/gym-imu)**
+
+- Diseñé y construí un dispositivo wearable IoT que registra y transmite la velocidad de ejecución de ejercicios en tiempo real mediante telemetría BLE, permitiendo aplicar VBT, un método que usa la velocidad de movimiento para prescribir y monitorear la intensidad en entrenamientos de fuerza.
+- Diseñé el firmware empleando el estilo arquitectónico Pipes and Filters para aislar muestreo, procesamiento y transmisión en hilos concurrentes que se comunican mediante colas, tolerando variaciones en los tiempos de procesamiento y retrasos en la transmisión.
+- Implementé test seams y abstracciones de ejecución determinista que permiten testear de forma unitaria la lógica del firmware en entorno de desarrollo, sin requerir hardware físico.
+- Documenté decisiones clave de arquitectura (ADRs + diagramas C4), esquemáticos, lista de materiales, herramientas y diseño de la carcasa para facilitar el mantenimiento y permitir la reproducción completa por terceros.
+- Stack: C++20, FreeRTOS, NimBLE, ESP-IDF, PlatformIO, Google Test/FFF, LCOV, OpenSCAD, Git.
+
 **Tracker de fuerza y adquisición de habilidades de calistenia (en curso) — [Repositorio](https://github.com/FedericoPacheco/calisthenics-2025)**
 
 - Migré una planilla de Excel con scripts VBA difíciles de mantener a una base de código limpia en Google Sheets y Apps Script, incorporando tooling moderno y más de 70 unit tests distribuidos en más de 10 archivos de prueba para sostener el desarrollo futuro.
