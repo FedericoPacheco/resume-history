@@ -14,8 +14,17 @@ Ingeniero en Sistemas de Información recientemente graduado reconocido por alto
 
 ### Experiencia laboral
 
+**Ayudante de primera — Redes de Datos — Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF)**  
+
+*Mayo 2026 – Presente*  
+
+- Asistí a más de 30 estudiantes en la configuración y resolución de escenarios de redes que involucraban IP/TCP, NAT, DHCP, proxy y firewall en el simulador GNS3, fortaleciendo sus habilidades prácticas.  
+- Colaboré con los docentes en la corrección de exámenes, asegurando equidad y consistencia en la evaluación.  
+
 **Fullstack Developer Junior – [Serfe SA](https://www.serfe.com/es/)**  
+
 *Octubre 2024 – Julio 2025*
+
 Proyecto Bluejacketeer, plataforma de estudio tipo flashcards/preguntas y respuestas para militares de la marina de EE.UU.  
 
 - Implementé funcionalidades clave del subproyecto Audio Study (reproductor de playlists, seguimiento de progreso, reportes, pronunciación personalizada) dando soporte a 20.000 usuarios acjtivos.  
@@ -26,13 +35,16 @@ errores de facturación y tickets de soporte.
 - Mejoré la generación automática de material de estudio con LLMs mediante prompt engineering, reduciendo la carga de trabajo de los redactores.
 - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, Istanbul, Stryker, PostgreSQL, Redis, Docker, Git.
 
-**Becario de investigación – Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF)**  
+**Becario de investigación – UTN FRSF**  
+
 *Abril 2023 – Diciembre 2023*  
+
 Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proyecto Final de Carrera*.  
 
 ### Educación
 
 **Ingeniería en Sistemas de Información – UTN FRSF**
+
 *Marzo 2019 – Febrero 2025*  
 
 - Promedio general: 8,77/10  
@@ -40,6 +52,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 - Abanderado: 2da escolta provincial  
 
 **Bachiller en Ciencias Naturales – E.E.S.O.P.I. N° 3137 San Ezequiel Moreno Agustinos Recoletos**
+
 *2014 – 2018*  
 
 - Promedio general: 8,59/10

@@ -14,8 +14,17 @@ Recently graduated Information Systems Engineer recognized for high academic per
 
 ### Work Experience
 
+**Teacher Assistant at Computer Networks course — National Technological University, Santa Fe Regional Faculty (UTN FRSF)**
+
+*May 2026 – Present*
+
+- Helped 30+ students configure and troubleshoot networking scenarios involving IP/TCP, NAT, DHCP, proxy and firewall in the GNS3 simulator, strengthening their practical skills.
+- Worked with instructors in exam corrections, ensuring fairness and consistent grading.  
+
 **Junior Fullstack Developer — [Serfe SA](https://www.serfe.com/en)**  
+
 *October 2024 – July 2025*  
+
 Bluejacketeer project, a study platform based on flashcards/Q&A format designed for U.S. Navy personnel.  
 
 - Implemented key Audio Study features (playlist player, progress tracking, reporting, custom pronunciation) supporting 20,000 active users.
@@ -25,13 +34,16 @@ Bluejacketeer project, a study platform based on flashcards/Q&A format designed 
 - Enhanced study material automatic generation with LLMs through focused prompt engineering, reducing writers' workload.
 - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, Istanbul, Stryker, PostgreSQL, Redis, Docker, Git.
 
-**Research Scholar — National Technological University, Santa Fe Regional Faculty (UTN FRSF)**  
+**Research Scholar — UTN FRSF**  
+
 *April 2023 – December 2023*  
+
 Topic: Application of machine learning algorithms, employed in the *Career's Final Project*.  
 
 ### Education
 
 **Information Systems Engineering — UTN FRSF**  
+
 *March 2019 – February 2025*
 
 - GPA: 8.77/10  
@@ -39,6 +51,7 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Designated as Flag Escort (2nd provincial escort) in recognition of high academic merit  
 
 **High School Diploma in Natural Sciences — E.E.S.O.P.I. N° 3137 San Ezequiel Moreno Agustinos Recoletos**  
+
 *2014 – 2018*  
 
 - GPA: 8.59/10  
