@@ -1,6 +1,6 @@
-## Federico Ignacio Pacheco Pilan
+# Federico Ignacio Pacheco Pilan
 
-**Locación**: Santa Fe Capital, Santa Fe, Argentina  
+**Locación**: Santa Fe Capital, Santa Fe, Argentina
 **Teléfono**: +54 9 342 5 107625  
 **Email**: [federico.ignacio.pacheco.pilan@gmail.com](mailto:federico.ignacio.pacheco.pilan@gmail.com)  
 **LinkedIn**: [linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15](https://www.linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15/)  
@@ -8,11 +8,11 @@
 
 ---
 
-### Perfil
+## Perfil
 
 Ingeniero en Sistemas de Información recientemente graduado reconocido por alto rendimiento académico con casi 1 año de experiencia como Desarrollador Fullstack en una plataforma de e-learning. Curioso y disciplinado, estudiando continuamente fundamentos de testing, refactoring, patrones de diseño, principios SOLID, arquitectura de software y sistemas distribuídos. En búsqueda de un segundo rol como desarrollador en un equipo que valore la calidad del código y una sólida cultura de ingeniería.
 
-### Experiencia laboral
+## Experiencia laboral
 
 **Ayudante de primera — Redes de Datos — Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF)**  
 
@@ -41,7 +41,7 @@ errores de facturación y tickets de soporte.
 
 Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proyecto Final de Carrera*.  
 
-### Educación
+## Educación
 
 **Ingeniería en Sistemas de Información – UTN FRSF**
 
@@ -59,7 +59,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 - Segundo promedio en quinto año  
 - Abanderado: 1era escolta provincial  
 
-### Proyectos personales
+## Proyectos personales
 
 **Sistema para Entrenamiento basado en velocidad (Velocity-Based Training o VBT, por sus siglas en inglés) (en curso) — [Repositorio](https://github.com/FedericoPacheco/gym-imu)**
 
@@ -101,7 +101,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 - Desplegué toda la arquitectura localmente mediante contenedores.
 - Stack: Java, Spring, Maven, MySQL, PostgreSQL, MongoDB, Docker, Eureka, Graylog, Prometheus, Grafana, RabbitMQ, Testcontainers, JUnit, Mockito.
 
-### Idiomas
+## Idiomas
 
 **Inglés – Competencia profesional completa**  
 

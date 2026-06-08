@@ -1,6 +1,6 @@
-## Federico Ignacio Pacheco Pilan
+# Federico Ignacio Pacheco Pilan
 
-**Location**: Santa Fe Capital, Santa Fe, Argentina  
+**Location**: Santa Fe Capital, Santa Fe, Argentina
 **Phone**: +54 9 342 5 107625  
 **Email**: [federico.ignacio.pacheco.pilan@gmail.com](mailto:federico.ignacio.pacheco.pilan@gmail.com)  
 **LinkedIn**: [linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15/](https://linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15/)  
@@ -8,11 +8,11 @@
 
 ---
 
-### Summary
+## Summary
 
 Recently graduated Information Systems Engineer recognized for high academic performance with nearly 1 year of experience as a Fullstack Developer on an e-learning platform. Curious and disciplined, continuously studying testing, refactoring, design patterns, SOLID principles, software architecture and distributed systems fundamentals. Seeking a second developer role in a team that values code quality and strong engineering culture.
 
-### Work Experience
+## Work Experience
 
 **Teacher Assistant at Computer Networks course — National Technological University, Santa Fe Regional Faculty (UTN FRSF)**
 
@@ -40,7 +40,7 @@ Bluejacketeer project, a study platform based on flashcards/Q&A format designed 
 
 Topic: Application of machine learning algorithms, employed in the *Career's Final Project*.  
 
-### Education
+## Education
 
 **Information Systems Engineering — UTN FRSF**  
 
@@ -58,7 +58,7 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Second highest GPA in the final year  
 - Designated as Flag Escort (1st provincial escort) in recognition of high academic merit  
 
-### Personal Projects
+## Personal Projects
 
 **Velocity-Based Training (VBT) System (ongoing) — [Repository](https://github.com/FedericoPacheco/gym-imu)**
 
@@ -100,7 +100,7 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Deployed the entire architecture locally using containers.
 - Stack: Java, Spring, Maven, MySQL, PostgreSQL, MongoDB, Docker, Eureka, Graylog, Prometheus, Grafana, RabbitMQ, Testcontainers, JUnit, Mockito.
 
-### Languages
+## Languages
 
 **English — Full Professional Proficiency**  
 
