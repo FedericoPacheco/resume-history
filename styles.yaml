@@ -1,4 +1,9 @@
 pdf-engine: xelatex
+metadata:
+  colorlinks: true
+  linkcolor: "googleblue"
+  urlcolor: "googleblue"
+  citecolor: "googleblue"
 variables:
   geometry: margin=0.25in
   fontsize: 10pt
@@ -6,3 +11,5 @@ variables:
   mainfont: "Latin Modern Roman" # classic LaTeX font
   monofont: "Latin Modern Mono"
   pagestyle: empty # remove headers/footers
+
+include-in-header: header.tex
