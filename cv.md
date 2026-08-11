@@ -16,7 +16,7 @@ Ingeniero en Sistemas de Información reconocido por su alto rendimiento académ
 
 ### Ayudante de primera — Redes de Datos — Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF) — *Mayo 2026 – Presente*
 
-- Asistí a más de 30 estudiantes en la configuración y resolución de escenarios de redes que involucraban IP/TCP, NAT, DHCP, proxy y firewall en el simulador GNS3, fortaleciendo sus habilidades prácticas.
+- Asistí a más de 30 estudiantes en la configuración y resolución de escenarios de redes que involucran IP/TCP, NAT, DHCP, proxy y firewall en el simulador GNS3, fortaleciendo sus habilidades prácticas.
 - Colaboré con los docentes en la corrección de exámenes, asegurando equidad y consistencia en la evaluación.  
 
 ### Fullstack Developer Junior – [Serfe SA](https://www.serfe.com/es/) — *Octubre 2024 – Julio 2025*
