@@ -14,16 +14,12 @@ Recently graduated Information Systems Engineer recognized for high academic per
 
 ## Work Experience
 
-**Teacher Assistant at Computer Networks course — National Technological University, Santa Fe Regional Faculty (UTN FRSF)**
-
-*May 2026 – Present*
+### Teacher Assistant at Computer Networks course — National Technological University, Santa Fe Regional Faculty (UTN FRSF) — *May 2026 – Present*
 
 - Helped 30+ students configure and troubleshoot networking scenarios involving IP/TCP, NAT, DHCP, proxy and firewall in the GNS3 simulator, strengthening their practical skills.
 - Worked with instructors in exam corrections, ensuring fairness and consistent grading.  
 
-**Junior Fullstack Developer — [Serfe SA](https://www.serfe.com/en)**  
-
-*October 2024 – July 2025*  
+### Junior Fullstack Developer — [Serfe SA](https://www.serfe.com/en) — *October 2024 – July 2025*
 
 Bluejacketeer project, a study platform based on flashcards/Q&A format designed for U.S. Navy personnel.  
 
@@ -34,33 +30,27 @@ Bluejacketeer project, a study platform based on flashcards/Q&A format designed 
 - Enhanced study material automatic generation with LLMs through focused prompt engineering, reducing writers' workload.
 - Stack: JavaScript, CSS, React, Redux, Redux-Saga, Node.js, Mocha, Sinon, Chai, Istanbul, Stryker, PostgreSQL, Redis, Docker, Git.
 
-**Research Scholar — UTN FRSF**  
-
-*April 2023 – December 2023*  
+### Research Scholar — UTN FRSF — *April 2023 – December 2023*
 
 Topic: Application of machine learning algorithms, employed in the *Career's Final Project*.  
 
 ## Education
 
-**Information Systems Engineering — UTN FRSF**  
+### Information Systems Engineering — UTN FRSF — *March 2019 – February 2025*
 
-*March 2019 – February 2025*
+- GPA: 8.77/10.
+- Completed studies.
+- Designated as Flag Escort (2nd provincial escort) in recognition of high academic merit.
 
-- GPA: 8.77/10  
-- Completed studies  
-- Designated as Flag Escort (2nd provincial escort) in recognition of high academic merit  
+### High School Diploma in Natural Sciences — E.E.S.O.P.I. N° 3137 San Ezequiel Moreno Agustinos Recoletos — *March 2014 – December 2018*
 
-**High School Diploma in Natural Sciences — E.E.S.O.P.I. N° 3137 San Ezequiel Moreno Agustinos Recoletos**  
-
-*2014 – 2018*  
-
-- GPA: 8.59/10  
-- Second highest GPA in the final year  
-- Designated as Flag Escort (1st provincial escort) in recognition of high academic merit  
+- GPA: 8.59/10.
+- Second highest GPA in the final year.
+- Designated as Flag Escort (1st provincial escort) in recognition of high academic merit.
 
 ## Personal Projects
 
-**Velocity-Based Training (VBT) System (ongoing) — [Repository](https://github.com/FedericoPacheco/gym-imu)**
+### Velocity-Based Training (VBT) System (ongoing) — [Repository](https://github.com/FedericoPacheco/gym-imu)
 
 - Designed and built a wearable IoT device that tracks and transmits exercise velocity in real time via BLE telemetry, enabling VBT, a method that uses movement speed to prescribe and monitor strength training intensity.
 - Architected the firmware around a Pipes and Filters style to isolate sampling, processing, and transmission into concurrent threads that communicate through queues, accommodating for variable processing times and transmission delays.
@@ -68,7 +58,7 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Documented key architecture decisions (ADRs + C4 diagrams), schematics, bill of materials, tooling, and enclosure design to support maintenance and enable full system reproducibility by third parties.
 - Stack: C++20, FreeRTOS, NimBLE, ESP-IDF, PlatformIO, Google Test/FFF, LCOV, OpenSCAD, Git.
 
-**Calisthenics Strength & Skill Acquisition Tracker (ongoing) — [Repository](https://github.com/FedericoPacheco/calisthenics-2025)**
+### Calisthenics Strength & Skill Acquisition Tracker (ongoing) — [Repository](https://github.com/FedericoPacheco/calisthenics-2025)
 
 - Migrated Excel spreadsheet with unmaintainable VBA scripts to a clean Google Sheets + App Script codebase, introducing modern tooling and 70+ unit tests across 10+ test files to support ongoing development.
 - Designed the system using hexagonal architecture (3 port/adapter pairs), enabling a fully testable domain layer with zero live-spreadsheet dependencies and a test-driven development (TDD) workflow.
@@ -76,7 +66,7 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Developed a strength estimation and training-load recommendation tool using submaximal test data and regression-based analysis, enabling progress evaluation and load selection without frequent maximal-effort attempts.
 - Stack: TypeScript, Google Sheets, Google App Script, Mocha, Chai, Sinon, ESLint, Prettier, Git, Webpack.
 
-**ToDo App — [Website](https://todo.federicopacheco.dev) — [Repository](https://github.com/FedericoPacheco/todo-app)**
+### ToDo App — [Website](https://todo.federicopacheco.dev) — [Repository](https://github.com/FedericoPacheco/todo-app)
 
 - Implemented a comprehensive testing strategy (53 unit, 14 integration, 5 e2e tests + mutation testing) achieving >90% coverage, reducing defects on production.
 - Built a complete CI/CD pipeline with GitHub Actions, automating linting, testing, builds, database backups, deployments to AWS Lightsail with Nginx reverse proxy, and rollbacks on health check failures, eliminating manual errors and reducing downtime to 1-2min per release.
@@ -84,14 +74,14 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Documented key architecture decisions (ADRs + C4 diagrams) to enhance technical clarity and facilitate future maintenance.
 - Stack: Bluejacketeer's stack, plus Husky and Playwright.
 
-**Career's Final Project: Software prototype for feature extraction from agreements using Machine Learning and NLP — [Document](https://ria.utn.edu.ar/items/4db2f3bf-1fd4-4d60-a18b-e61d5f840768)**  
+### Career's Final Project: Software prototype for feature extraction from agreements using Machine Learning and NLP — [Document](https://ria.utn.edu.ar/items/4db2f3bf-1fd4-4d60-a18b-e61d5f840768)
 
 - Automated the processing of documents from the Department of Extension and Culture at UTN FRSF, reducing manual work and improving consistency.
 - Designed and trained a custom Named Entity Recognition (NER) model, including preprocessing, dataset creation, hyperparameter tuning, and cross-validation, achieving accurate extraction of key terms.
 - Developed a user-friendly graphical interface integrated with the ML model, enabling non-technical staff to process and analyze documents efficiently.
 - Stack: Python, SpaCy, Tesseract, OpenCV.
 
-**Final assignment for the Cloud applications development course — [Repository](https://github.com/FedericoPacheco/tp-dan-2024)**
+### Final assignment for the Cloud applications development course — [Repository](https://github.com/FedericoPacheco/tp-dan-2024)
 
 - Designed and implemented three independent microservices, each with its own database (two relational, one NoSQL), enabling scalable management of product orders for multiple clients.
 - Integrated REST APIs and RabbitMQ messaging to ensure reliable inter-service communication.
@@ -102,9 +92,9 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 
 ## Languages
 
-**English — Full Professional Proficiency**  
+### English — Full Professional Proficiency
 
-- Foreign Language Preparatory School, Almirante Guillermo Brown Higher Institute of Teacher Education (GPA: 8.86/10)  
-- EF Standard English Test: 79/100 (C2) — 10/7/2023  
+- Foreign Language Preparatory School, Almirante Guillermo Brown Higher Institute of Teacher Education (GPA: 8.86/10).
+- EF Standard English Test: 79/100 (C2) — 10/7/2023.
 
-**Spanish — Native/Bilingual Proficiency**
+### Spanish — Native/Bilingual Proficiency
