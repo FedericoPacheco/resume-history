@@ -10,7 +10,7 @@
 
 ## Perfil
 
-Ingeniero en Sistemas de Información recientemente graduado reconocido por alto rendimiento académico con casi 1 año de experiencia como Desarrollador Fullstack en una plataforma de e-learning. Curioso y disciplinado, estudiando continuamente fundamentos de testing, refactoring, patrones de diseño, principios SOLID, arquitectura de software y sistemas distribuídos. En búsqueda de un segundo rol como desarrollador en un equipo que valore la calidad del código y una sólida cultura de ingeniería.
+Ingeniero en Sistemas de Información reconocido por su alto rendimiento académico, con experiencia como desarrollador fullstack y ayudante de cátedra. Curioso por aprender constantemente, con enfoque en fundamentos, así como en la construcción de proyectos para consolidar conocimientos. Buscando una nueva posición en la industria o academia que valore y fomente la excelencia técnica.
 
 ## Experiencia laboral
 
@@ -94,7 +94,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 
 ## Idiomas
 
-### Inglés – Competencia profesional completa**
+### Inglés – Competencia profesional completa
 
 - Instituto Superior del Profesorado N°8 Almirante Guillermo Brown (Promedio: 8,86/10)  
 - EF SET: 79/100 (C2) – 7/10/2023  

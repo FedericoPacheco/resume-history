@@ -10,7 +10,7 @@
 
 ## Summary
 
-Recently graduated Information Systems Engineer recognized for high academic performance with nearly 1 year of experience as a Fullstack Developer on an e-learning platform. Curious and disciplined, continuously studying testing, refactoring, design patterns, SOLID principles, software architecture and distributed systems fundamentals. Seeking a second developer role in a team that values code quality and strong engineering culture.
+Information Systems Engineer recognized for high academic performance with experience as a fullstack developer and a teacher assistant. Curious about constantly learning new things, with a focus on fundamentals, as well as building projects to consolidate knowledge. Seeking a new position at either the industry or academia that values and fosters technical excellence.
 
 ## Work Experience
 
