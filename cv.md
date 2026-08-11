@@ -55,6 +55,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 
 - Diseñé y construí un dispositivo wearable IoT que registra y transmite la velocidad de ejecución de ejercicios en tiempo real mediante telemetría BLE, permitiendo aplicar VBT, un método que usa la velocidad de movimiento para prescribir y monitorear la intensidad en entrenamientos de fuerza.
 - Diseñé el firmware empleando el estilo arquitectónico Pipes and Filters para aislar muestreo, procesamiento y transmisión en hilos concurrentes que se comunican mediante colas, tolerando variaciones en los tiempos de procesamiento y retrasos en la transmisión.
+- Procesé las señales en crudo de la unidad de medición inercial (IMU) mediante técnicas de calibración, filtrado, fusión de sensores e integración numérica para estimar la velocidad de ejecución de ejercicios, y validé los resultados con capturas controladas, análisis estadístico y gráfico, y grabaciones de video.
 - Implementé test seams y abstracciones de ejecución determinista que permiten testear de forma unitaria la lógica del firmware en entorno de desarrollo, sin requerir hardware físico.
 - Documenté decisiones clave de arquitectura (ADRs + diagramas C4), esquemáticos, lista de materiales, herramientas y diseño de la carcasa para facilitar el mantenimiento y permitir la reproducción completa por terceros.
 - Stack: C++20, FreeRTOS, NimBLE, ESP-IDF, PlatformIO, Google Test/FFF, LCOV, OpenSCAD, Git.

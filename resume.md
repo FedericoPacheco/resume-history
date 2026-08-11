@@ -54,6 +54,7 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 
 - Designed and built a wearable IoT device that tracks and transmits exercise velocity in real time via BLE telemetry, enabling VBT, a method that uses movement speed to prescribe and monitor strength training intensity.
 - Architected the firmware around a Pipes and Filters style to isolate sampling, processing, and transmission into concurrent threads that communicate through queues, accommodating for variable processing times and transmission delays.
+- Processed raw inertial measurement unit (IMU) signals with calibration, filtering, sensor fusion, and numerical integration techniques to estimate exercise velocity, and validated it with controlled captures, statistical and graphical analysis, and video recordings.
 - Implemented test seams and deterministic runner abstractions to unit-test firmware logic on the development machine without physical hardware.
 - Documented key architecture decisions (ADRs + C4 diagrams), schematics, bill of materials, tooling, and enclosure design to support maintenance and enable full system reproducibility by third parties.
 - Stack: C++20, FreeRTOS, NimBLE, ESP-IDF, PlatformIO, Google Test/FFF, LCOV, OpenSCAD, Git.
