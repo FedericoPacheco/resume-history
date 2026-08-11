@@ -1,10 +1,10 @@
 # Federico Ignacio Pacheco Pilan
 
-**Location**: Santa Fe Capital, Santa Fe, Argentina
+**Location**: Santa Fe Capital, Santa Fe, Argentina  
 **Phone**: +54 9 342 5 107625  
 **Email**: [federico.ignacio.pacheco.pilan@gmail.com](mailto:federico.ignacio.pacheco.pilan@gmail.com)  
 **LinkedIn**: [linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15/](https://linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15/)  
-**GitHub**: [github.com/FedericoPacheco](https://github.com/FedericoPacheco)
+**GitHub**: [github.com/FedericoPacheco](https://github.com/FedericoPacheco)  
 
 ---
 

@@ -1,10 +1,10 @@
 # Federico Ignacio Pacheco Pilan
 
-**Locación**: Santa Fe Capital, Santa Fe, Argentina
+**Locación**: Santa Fe Capital, Santa Fe, Argentina  
 **Teléfono**: +54 9 342 5 107625  
 **Email**: [federico.ignacio.pacheco.pilan@gmail.com](mailto:federico.ignacio.pacheco.pilan@gmail.com)  
 **LinkedIn**: [linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15](https://www.linkedin.com/in/federico-ignacio-pacheco-pilan-2b7e15/)  
-**GitHub**: [github.com/FedericoPacheco](https://www.github.com/FedericoPacheco)
+**GitHub**: [github.com/FedericoPacheco](https://www.github.com/FedericoPacheco)  
 
 ---
 
@@ -16,7 +16,7 @@ Ingeniero en Sistemas de Información recientemente graduado reconocido por alto
 
 ### Ayudante de primera — Redes de Datos — Universidad Tecnológica Nacional Facultad Regional Santa Fe (UTN FRSF) — *Mayo 2026 – Presente*
 
-- Asistí a más de 30 estudiantes en la configuración y resolución de escenarios de redes que involucraban IP/TCP, NAT, DHCP, proxy y firewall en el simulador GNS3, fortaleciendo sus habilidades prácticas.  
+- Asistí a más de 30 estudiantes en la configuración y resolución de escenarios de redes que involucraban IP/TCP, NAT, DHCP, proxy y firewall en el simulador GNS3, fortaleciendo sus habilidades prácticas.
 - Colaboré con los docentes en la corrección de exámenes, asegurando equidad y consistencia en la evaluación.  
 
 ### Fullstack Developer Junior – [Serfe SA](https://www.serfe.com/es/) — *Octubre 2024 – Julio 2025*
@@ -39,14 +39,14 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 
 ### Ingeniería en Sistemas de Información – UTN FRSF – *Marzo 2019 – Febrero 2025*  
 
-- Promedio general: 8,77/10.  
+- Promedio general: 8,77/10.
 - Estudios completos.
-- Abanderado: 2da escolta provincial.  
+- Abanderado: 2da escolta provincial.
 
 ### Bachiller en Ciencias Naturales – E.E.S.O.P.I. N° 3137 San Ezequiel Moreno Agustinos Recoletos – *Marzo 2014 – Diciembre 2018*
 
-- Promedio general: 8,59/10.  
-- Segundo promedio en quinto año.  
+- Promedio general: 8,59/10.
+- Segundo promedio en quinto año.
 - Abanderado: 1era escolta provincial.
 
 ## Proyectos personales
