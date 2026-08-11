@@ -84,7 +84,7 @@ Topic: Application of machine learning algorithms, employed in the *Career's Fin
 - Documented key architecture decisions (ADRs + C4 diagrams) to enhance technical clarity and facilitate future maintenance.
 - Stack: Bluejacketeer's stack, plus Husky and Playwright.
 
-**Career's Final Project: Software prototype for feature extraction from agreements using Machine Learning and NLP — [Document](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
+**Career's Final Project: Software prototype for feature extraction from agreements using Machine Learning and NLP — [Document](https://ria.utn.edu.ar/items/4db2f3bf-1fd4-4d60-a18b-e61d5f840768)**  
 
 - Automated the processing of documents from the Department of Extension and Culture at UTN FRSF, reducing manual work and improving consistency.
 - Designed and trained a custom Named Entity Recognition (NER) model, including preprocessing, dataset creation, hyperparameter tuning, and cross-validation, achieving accurate extraction of key terms.

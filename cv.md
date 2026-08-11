@@ -85,7 +85,7 @@ Tema: Aplicación de algoritmos de aprendizaje automático, empleado en el *Proy
 - Documenté decisiones clave de arquitectura (ADRs + diagramas C4) para mejorar la claridad técnica y facilitar el mantenimiento futuro.
 - Stack: stack de Bluejacketeer, añadiendo Husky y Playwright.
 
-**Proyecto Final de Carrera: Prototipo de software para extracción de características de convenios con Machine Learning y NLP — [Documento](https://docs.google.com/document/d/1rxmj_EF8QLRGXrzvovQt6Eb_Ysypm1KeZ3z4BWp-x3I/edit?usp=sharing)**  
+**Proyecto Final de Carrera: Prototipo de software para extracción de características de convenios con Machine Learning y NLP — [Documento](https://ria.utn.edu.ar/items/4db2f3bf-1fd4-4d60-a18b-e61d5f840768)**  
 
 - Automaticé el procesamiento de documentos del Departamento de Extensión y Cultura de la UTN FRSF, reduciendo el trabajo manual y mejorando la consistencia.
 - Diseñé y entrené un modelo personalizado de Reconocimiento de Entidades Nombradas (NER), incluyendo preprocesamiento, creación de conjuntos de datos, ajuste de hiperparámetros y validación cruzada, logrando una extracción precisa de términos clave.
